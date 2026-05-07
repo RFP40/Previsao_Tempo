@@ -43,7 +43,7 @@ O sistema faz uma requisição para a API de clima, enviando o nome da cidade in
 - Obtenha sua `API KEY`
 - Substitua a chave no código JavaScript:
     ``` JavaScript
-    const key ="Insira_a_chave_aqui"
+        const apiKey = 'INSIRA_AQUI_SUA_CHAVE';
 4. **Execução**
 Abra o arquivoo `index.html` diretamente no navegador, ou, a extensão `live server` no VSCODE
 
